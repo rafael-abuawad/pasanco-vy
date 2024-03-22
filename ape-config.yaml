@@ -1,0 +1,5 @@
+name: pasanaco
+
+plugins:
+  - name: vyper
+  - name: foundry
